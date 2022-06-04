@@ -1,0 +1,10 @@
+﻿  main.cpp
+F:\WorkCpp\hacker\hacker\main.cpp(54,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\WorkCpp\hacker\hacker\main.cpp(188,6): warning C4101: “n”: 未引用的局部变量
+F:\WorkCpp\hacker\hacker\main.cpp(466,7): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+F:\WorkCpp\hacker\hacker\main.cpp(493,7): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  hacker.lib(hacker.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+hacker.lib(hacker.obj) : error LNK2001: 无法解析的外部符号 __imp__printf
+F:\WorkCpp\hacker\hacker\Debug\hacker.exe : fatal error LNK1120: 1 个无法解析的外部命令

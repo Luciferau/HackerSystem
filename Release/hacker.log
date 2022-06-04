@@ -1,0 +1,2404 @@
+﻿  main.cpp
+  正在启动传递 1
+  已处理 /DEFAULTLIB: EasyXa.lib
+  已处理 /DEFAULTLIB: uuid.lib
+  已处理 /DEFAULTLIB: msvcprt
+  已处理 /DEFAULTLIB: winmm.lib
+  已处理 /DEFAULTLIB: MSVCRT
+  已处理 /DEFAULTLIB: OLDNAMES
+  已处理 /DEFAULTLIB: clang_rt.fuzzer_MD-i386.lib
+  已处理 /DEFAULTLIB: sancov.lib
+  正在搜索库
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\kernel32.lib:
+        已找到 __imp__Sleep@4
+          已在 main.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__MultiByteToWideChar@24
+          已在 main.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__WideCharToMultiByte@32
+          已在 main.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __IMPORT_DESCRIPTOR_KERNEL32
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __NULL_IMPORT_DESCRIPTOR
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 KERNEL32_NULL_THUNK_DATA
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbccp32.lib:
+      正在搜索 hacker.lib:
+        已找到 "int __cdecl hk_404(char *,char *)" (?hk_404@@YAHPAD0@Z)
+          已在 main.obj 中引用
+  hacker.lib(hacker.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+  正在调用 LINK.EXE:
+   /ERRORREPORT:PROMPT @C:\Users\Administrator\AppData\Local\Temp\tmp9ff31e60904d477386fad34eb22a9be7.rsp
+   /LTCG
+  
+  正在启动传递 1
+  已处理 /DEFAULTLIB: EasyXa.lib
+  已处理 /DEFAULTLIB: uuid.lib
+  已处理 /DEFAULTLIB: msvcprt
+  已处理 /DEFAULTLIB: winmm.lib
+  已处理 /DEFAULTLIB: MSVCRT
+  已处理 /DEFAULTLIB: OLDNAMES
+  已处理 /DEFAULTLIB: clang_rt.fuzzer_MD-i386.lib
+  已处理 /DEFAULTLIB: sancov.lib
+  
+  正在搜索库
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\kernel32.lib:
+        已找到 __imp__Sleep@4
+          已在 main.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__MultiByteToWideChar@24
+          已在 main.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__WideCharToMultiByte@32
+          已在 main.obj 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __IMPORT_DESCRIPTOR_KERNEL32
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __NULL_IMPORT_DESCRIPTOR
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 KERNEL32_NULL_THUNK_DATA
+          已在 kernel32.lib(KERNEL32.dll) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbccp32.lib:
+      正在搜索 hacker.lib:
+        已找到 "int __cdecl hk_404(char *,char *)" (?hk_404@@YAHPAD0@Z)
+          已在 main.obj 中引用
+          已加载 hacker.lib(hacker.obj)
+  已处理 /DEFAULTLIB: ws2_32.lib
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x86\EasyXa.lib:
+        已找到 "public: __thiscall IMAGE::IMAGE(int,int)" (??0IMAGE@@QAE@HH@Z)
+          已在 main.obj 中引用
+          已加载 EasyXa.lib(Image.obj)
+        已找到 "struct HWND__ * __cdecl initgraph(int,int,int)" (?initgraph@@YAPAUHWND__@@HHH@Z)
+          已在 main.obj 中引用
+          已加载 EasyXa.lib(EasyX.obj)
+        已找到 "struct MOUSEMSG __cdecl GetMouseMsg(void)" (?GetMouseMsg@@YA?AUMOUSEMSG@@XZ)
+          已在 main.obj 中引用
+          已加载 EasyXa.lib(graphics.obj)
+        已找到 "public: static struct HBITMAP__ * __cdecl EasyX::ImageFunc::CreateBmp(int,int,unsigned long * *)" (?CreateBmp@ImageFunc@EasyX@@SAPAUHBITMAP__@@HHPAPAK@Z)
+          已在 EasyXa.lib(Image.obj) 中引用
+          已加载 EasyXa.lib(EasyX.ImageFunc.obj)
+        已找到 "void __cdecl EasyX::Common::Memory::FillMemory4(unsigned long *,unsigned int,unsigned long)" (?FillMemory4@Memory@Common@EasyX@@YAXPAKIK@Z)
+          已在 EasyXa.lib(Image.obj) 中引用
+          已加载 EasyXa.lib(EasyX.Common.Memory.obj)
+        已找到 "class EasyX::GlobalVar EasyX::Global" (?Global@EasyX@@3VGlobalVar@1@A)
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 EasyXa.lib(EasyX.Var.obj)
+        已找到 "public: static unsigned long __cdecl EasyX::Drawing::ColorModel::RGBtoGRAY(unsigned long)" (?RGBtoGRAY@ColorModel@Drawing@EasyX@@SAKK@Z)
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已加载 EasyXa.lib(EasyX.Drawing.ColorModel.obj)
+        已找到 "public: void __thiscall EasyX::GraphWnd::GetExMessage(struct ExMessage *,unsigned char)" (?GetExMessage@GraphWnd@EasyX@@QAEXPAUExMessage@@E@Z)
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已加载 EasyXa.lib(EasyX.GraphWnd.obj)
+        已找到 "public: virtual struct HWND__ * __thiscall EasyX::DrawOnWnd::initgraph(int,int,int)" (?initgraph@DrawOnWnd@EasyX@@UAEPAUHWND__@@HHH@Z)
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已加载 EasyXa.lib(EasyX.DrawOnWnd.obj)
+        已找到 "public: bool __thiscall CInputBox::DoModal(void)" (?DoModal@CInputBox@@QAE_NXZ)
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已加载 EasyXa.lib(EasyX.InputBox.obj)
+        已找到 "public: __thiscall EasyX::GlobalMemory::GlobalMemory(void)" (??0GlobalMemory@EasyX@@QAE@XZ)
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 EasyXa.lib(EasyX.GlobalMemory.obj)
+        已找到 "int (__stdcall* GdiPlus::GdipLoadImageFromStream)(struct IStream *,struct GpImage * *)" (?GdipLoadImageFromStream@GdiPlus@@3P6GHPAUIStream@@PAPAUGpImage@@@ZA)
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 EasyXa.lib(EasyX.GdiPlus.obj)
+        已找到 "public: __thiscall EasyX::DrawOnImg::DrawOnImg(void)" (??0DrawOnImg@EasyX@@QAE@XZ)
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnWnd.obj) 中引用
+          已加载 EasyXa.lib(EasyX.DrawOnImg.obj)
+        已找到 "int __cdecl EasyX::Common::Math::Round(double)" (?Round@Math@Common@EasyX@@YAHN@Z)
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 EasyXa.lib(EasyX.Common.Math.obj)
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprt.lib:
+        已找到 "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPBD@Z)
+          已在 main.obj 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __IMPORT_DESCRIPTOR_MSVCP140
+          已在 msvcprt.lib(MSVCP140.dll) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 MSVCP140_NULL_THUNK_DATA
+          已在 msvcprt.lib(MSVCP140.dll) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winmm.lib:
+        已找到 __imp__mciSendStringA@16
+          已在 main.obj 中引用
+          已加载 winmm.lib(WINMM.dll)
+        已找到 __IMPORT_DESCRIPTOR_WINMM
+          已在 winmm.lib(WINMM.dll) 中引用
+          已加载 winmm.lib(WINMM.dll)
+        已找到 WINMM_NULL_THUNK_DATA
+          已在 winmm.lib(WINMM.dll) 中引用
+          已加载 winmm.lib(WINMM.dll)
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRT.lib:
+        已找到 "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z)
+          已在 main.obj 中引用
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 MSVCRT.lib(new_scalar.obj)
+        已找到 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已在 main.obj 中引用
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 MSVCRT.lib(delete_scalar_size.obj)
+        已找到 "void * __cdecl operator new[](unsigned int)" (??_U@YAPAXI@Z)
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已在 main.obj 中引用
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 MSVCRT.lib(new_array.obj)
+        已找到 "void __cdecl operator delete[](void *)" (??_V@YAXPAX@Z)
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已在 main.obj 中引用
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 MSVCRT.lib(delete_array.obj)
+        已找到 _atexit
+          已在 main.obj 中引用
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已加载 MSVCRT.lib(utility.obj)
+        已找到 ___report_rangecheckfailure
+          已在 main.obj 中引用
+          已加载 MSVCRT.lib(gs_report.obj)
+        已找到 @__security_check_cookie@4
+          已在 EasyXa.lib(EasyX.DrawOnWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已在 EasyXa.lib(graphics.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 main.obj 中引用
+          已在 hacker.lib(hacker.obj) 中引用
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已加载 MSVCRT.lib(secchk.obj)
+        已找到 __chkstk
+          已在 main.obj 中引用
+          已加载 MSVCRT.lib(chkstk.obj)
+        已找到 "const type_info::`vftable'" (??_7type_info@@6B@)
+          已在 EasyXa.lib(EasyX.DrawOnWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已在 main.obj 中引用
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 MSVCRT.lib(std_type_info_static.obj)
+        已找到 ___security_cookie
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已在 MSVCRT.lib(gs_report.obj) 中引用
+          已在 MSVCRT.lib(secchk.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnWnd.obj) 中引用
+          已在 main.obj 中引用
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已在 EasyXa.lib(graphics.obj) 中引用
+          已加载 MSVCRT.lib(gs_cookie.obj)
+        已找到 _mainCRTStartup
+          已加载 MSVCRT.lib(exe_main.obj)
+        已找到 __fltused
+          已在 EasyXa.lib(EasyX.Drawing.ColorModel.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已在 EasyXa.lib(EasyX.Common.Math.obj) 中引用
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已加载 MSVCRT.lib(fltused.obj)
+        已找到 __ftol2_sse
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.Common.Math.obj) 中引用
+          已加载 MSVCRT.lib(ftol2.obj)
+        已找到 "void __cdecl __scrt_throw_std_bad_alloc(void)" (?__scrt_throw_std_bad_alloc@@YAXXZ)
+          已在 MSVCRT.lib(new_scalar.obj) 中引用
+          已加载 MSVCRT.lib(throw_bad_alloc.obj)
+        已找到 "void __cdecl operator delete(void *)" (??3@YAXPAX@Z)
+          已在 MSVCRT.lib(delete_scalar_size.obj) 中引用
+          已在 MSVCRT.lib(delete_array.obj) 中引用
+          已加载 MSVCRT.lib(delete_scalar.obj)
+        已找到 ___isa_available_init
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已加载 MSVCRT.lib(cpu_disp.obj)
+        已找到 __get_startup_argv_mode
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(argv_mode.obj)
+        已找到 ___scrt_is_ucrt_dll_in_use
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已加载 MSVCRT.lib(ucrt_detection.obj)
+        已找到 ___scrt_fastfail
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(utility_desktop.obj)
+        已找到 __SEH_prolog4
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(sehprolg4.obj)
+        已找到 __except_handler4
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已在 MSVCRT.lib(sehprolg4.obj) 中引用
+          已加载 MSVCRT.lib(chandler4gs.obj)
+        已找到 ___guard_check_icall_fptr
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(guard_support.obj)
+        已找到 ___security_init_cookie
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(gs_support.obj)
+        已找到 __matherr
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(matherr.obj)
+        已找到 __get_startup_commit_mode
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(commit_mode.obj)
+        已找到 __get_startup_file_mode
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(file_mode.obj)
+        已找到 __get_startup_new_mode
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(new_mode.obj)
+        已找到 __get_startup_thread_locale_mode
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(thread_locale.obj)
+        已找到 "void __cdecl __scrt_initialize_type_info(void)" (?__scrt_initialize_type_info@@YAXXZ)
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(tncleanup.obj)
+        已找到 __should_initialize_environment
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(env_mode.obj)
+        已找到 __initialize_default_precision
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(default_precision.obj)
+        已找到 __initialize_invalid_parameter_handler
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(invalid_parameter_handler.obj)
+        已找到 __initialize_denormal_control
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(denormal_control.obj)
+        已找到 ___scrt_initialize_default_local_stdio_options
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(default_local_stdio_options.obj)
+        已找到 ___scrt_is_user_matherr_present
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(matherr_detection.obj)
+        已找到 ___scrt_get_dyn_tls_init_callback
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(dyn_tls_init.obj)
+        已找到 ___scrt_get_dyn_tls_dtor_callback
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(dyn_tls_dtor.obj)
+        已找到 __RTC_Initialize
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(initsect.obj)
+        已找到 ___xi_a
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 MSVCRT.lib(initializers.obj)
+  已处理 /DEFAULTLIB: kernel32.lib
+   已处理 /DISALLOWLIB: msvcrtd.lib
+   已处理 /DISALLOWLIB: libcmt.lib
+   已处理 /DISALLOWLIB: libcmtd.lib
+  已处理 /DEFAULTLIB: vcruntime.lib
+   已处理 /DISALLOWLIB: vcruntimed.lib
+   已处理 /DISALLOWLIB: libvcruntime.lib
+   已处理 /DISALLOWLIB: libvcruntimed.lib
+  已处理 /DEFAULTLIB: ucrt.lib
+   已处理 /DISALLOWLIB: ucrtd.lib
+   已处理 /DISALLOWLIB: libucrt.lib
+   已处理 /DISALLOWLIB: libucrtd.lib
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+        已找到 __imp__getch
+          已在 main.obj 中引用
+          已加载 OLDNAMES.lib(getch.obi)
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\clang_rt.fuzzer_MD-i386.lib:
+        已找到 ___sanitizer_cov_trace_cmp4
+          已在 main.obj 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj)
+        已找到 "unsigned char * __cdecl fuzzer::ExtraCountersBegin(void)" (?ExtraCountersBegin@fuzzer@@YAPAEXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerExtraCounters.cpp.obj)
+        已找到 "bool __cdecl fuzzer::IsInterestingCoverageFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?IsInterestingCoverageFile@fuzzer@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj)
+        已找到 "void __cdecl fuzzer::Printf(char const *,...)" (?Printf@fuzzer@@YAXPBDZZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj)
+        已找到 "void __cdecl fuzzer::PrintPC(char const *,char const *,unsigned int)" (?PrintPC@fuzzer@@YAXPBD0I@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj)
+        已找到 "struct fuzzer::ExternalFunctions * fuzzer::EF" (?EF@fuzzer@@3PAUExternalFunctions@1@A)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj)
+        已找到 "bool fuzzer::RunningUserCallback" (?RunningUserCallback@fuzzer@@3_NA)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj)
+        已找到 "unsigned long __cdecl fuzzer::GetPid(void)" (?GetPid@fuzzer@@YAKXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj)
+        已找到 "int __cdecl fuzzer::CollectDataFlow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::vector<struct fuzzer::SizedFile,class fuzzer::fuzzer_allocator<struct fuzzer::SizedFile> > const &)" (?CollectDataFlow@fuzzer@@YAHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0ABV?$vector@USizedFile@fuzzer@@V?$fuzzer_allocator@USizedFile@fuzzer@@@2@@3@@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj)
+        已找到 "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl fuzzer::Hash(class std::vector<unsigned char,class fuzzer::fuzzer_allocator<unsigned char> > const &)" (?Hash@fuzzer@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$vector@EV?$fuzzer_allocator@E@fuzzer@@@3@@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj)
+        已找到 "void __cdecl fuzzer::FuzzWithFork(class fuzzer::Random &,struct fuzzer::FuzzingOptions const &,class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class fuzzer::fuzzer_allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > const &,class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class fuzzer::fuzzer_allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > const &,int)" (?FuzzWithFork@fuzzer@@YAXAAVRandom@1@ABUFuzzingOptions@1@ABV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$fuzzer_allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@fuzzer@@@std@@2H@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj)
+        已找到 "public: __thiscall fuzzer::ExternalFunctions::ExternalFunctions(void)" (??0ExternalFunctions@fuzzer@@QAE@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerExtFunctionsWindows.cpp.obj)
+        已找到 "public: void __thiscall fuzzer::Fuzzer::CrashResistantMergeInternalStep(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?CrashResistantMergeInternalStep@Fuzzer@fuzzer@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj)
+        已找到 "public: __thiscall fuzzer::MutationDispatcher::MutationDispatcher(class fuzzer::Random &,struct fuzzer::FuzzingOptions const &)" (??0MutationDispatcher@fuzzer@@QAE@AAVRandom@1@ABUFuzzingOptions@1@@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerMutate.cpp.obj)
+        已找到 "public: unsigned int __thiscall fuzzer::MutationDispatcher::CrossOver(unsigned char const *,unsigned int,unsigned char const *,unsigned int,unsigned char *,unsigned int)" (?CrossOver@MutationDispatcher@fuzzer@@QAEIPBEI0IPAEI@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMutate.cpp.obj) 中引用
+          已加载 clang_rt.fuzzer_MD-i386.lib(FuzzerCrossOver.cpp.obj)
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\sancov.lib:
+        已找到 __Sancov8bitUsed
+          已在 main.obj 中引用
+          已加载 sancov.lib(sancov_8bit.obj)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ws2_32.lib:
+        已找到 __imp__send@16
+          已在 hacker.lib(hacker.obj) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp__closesocket@4
+          已在 hacker.lib(hacker.obj) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp__socket@12
+          已在 hacker.lib(hacker.obj) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp__recv@16
+          已在 hacker.lib(hacker.obj) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp__WSACleanup@0
+          已在 hacker.lib(hacker.obj) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp__htons@4
+          已在 hacker.lib(hacker.obj) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp__inet_addr@4
+          已在 hacker.lib(hacker.obj) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp__WSAStartup@8
+          已在 hacker.lib(hacker.obj) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __imp__connect@12
+          已在 hacker.lib(hacker.obj) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 __IMPORT_DESCRIPTOR_WS2_32
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+        已找到 WS2_32_NULL_THUNK_DATA
+          已在 ws2_32.lib(WS2_32.dll) 中引用
+          已加载 ws2_32.lib(WS2_32.dll)
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntime.lib:
+        已找到 ___std_exception_copy
+          已在 main.obj 中引用
+          已在 MSVCRT.lib(throw_bad_alloc.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 ___std_exception_destroy
+          已在 main.obj 中引用
+          已在 MSVCRT.lib(throw_bad_alloc.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 __CxxThrowException@8
+          已在 main.obj 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 MSVCRT.lib(throw_bad_alloc.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 ___CxxFrameHandler3
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已在 main.obj 中引用
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 _memcpy
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerCrossOver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMutate.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 main.obj 中引用
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 _memmove
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMutate.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 main.obj 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 _memset
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMutate.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已在 MSVCRT.lib(utility_desktop.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 main.obj 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.Common.Memory.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 ___std_terminate
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 _wcsrchr
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 _wcsstr
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 ___current_exception
+          已在 MSVCRT.lib(utility_desktop.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 ___current_exception_context
+          已在 MSVCRT.lib(utility_desktop.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 __except_handler4_common
+          已在 MSVCRT.lib(chandler4gs.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 ___std_type_info_destroy_list
+          已在 MSVCRT.lib(tncleanup.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 _memchr
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 _strstr
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 __IMPORT_DESCRIPTOR_VCRUNTIME140
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+        已找到 VCRUNTIME140_NULL_THUNK_DATA
+          已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+          已加载 vcruntime.lib(VCRUNTIME140.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\ucrt\x86\ucrt.lib:
+        已找到 __imp___invalid_parameter_noinfo_noreturn
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMutate.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 main.obj 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __imp__strncmp
+          已在 main.obj 中引用
+          已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+        已找到 __imp__exit
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerExtFunctionsWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 main.obj 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __imp__system
+          已在 main.obj 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __imp____stdio_common_vsprintf
+          已在 main.obj 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __wcsupr_s
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+        已找到 _free
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 MSVCRT.lib(delete_scalar.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+        已找到 _malloc
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 MSVCRT.lib(new_scalar.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+        已找到 __CIcos
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 __CIsin
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 _floor
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 ___acrt_iob_func
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 _freopen_s
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 _fclose
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __mbsrchr
+          已在 EasyXa.lib(EasyX.DrawOnWnd.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-multibyte-l1-1-0.dll)
+        已找到 __callnewh
+          已在 MSVCRT.lib(new_scalar.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+        已找到 __seh_filter_dll
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __configure_narrow_argv
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __initialize_narrow_environment
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __initialize_onexit_table
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __register_onexit_function
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __execute_onexit_table
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __crt_atexit
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __crt_at_quick_exit
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __cexit
+          已在 MSVCRT.lib(utility.obj) 中引用
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __seh_filter_exe
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __set_app_type
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 ___setusermatherr
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 __get_initial_narrow_environment
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __initterm
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __initterm_e
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __exit
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __set_fmode
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 ___p___argc
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 ___p___argv
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __c_exit
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __register_thread_local_exe_atexit_callback
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __configthreadlocale
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)
+        已找到 __set_new_mode
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+        已找到 ___p__commode
+          已在 MSVCRT.lib(exe_main.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 _terminate
+          已在 MSVCRT.lib(utility_desktop.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __controlfp_s
+          已在 MSVCRT.lib(default_precision.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __imp___getch
+          已在 OLDNAMES.lib(getch.obi) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)
+        已找到 __imp___invoke_watson
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMutate.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __imp___Exit
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 _ceil
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 __imp___fdopen
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 __imp__rename
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)
+        已找到 __imp___unlink
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)
+        已找到 __imp___close
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp___dup
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp___get_osfhandle
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp___write
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__abort
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __imp___get_stream_buffer_pointers
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__fflush
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__fgetc
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__fgetpos
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__fopen
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__fputc
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__fread
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__fsetpos
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp___fseeki64
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__fwrite
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__setvbuf
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__ungetc
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp___lock_file
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)
+        已找到 __imp___unlock_file
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)
+        已找到 __imp____stdio_common_vfprintf
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 sancov.lib(sancov_8bit.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp___stat64i32
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)
+        已找到 __imp__strtol
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+        已找到 __imp__isxdigit
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+        已找到 __imp__isspace
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+        已找到 __imp__isprint
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+        已找到 __imp___errno
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __imp__strtoul
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+        已找到 __imp___beginthreadex
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __imp__log2
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 __libm_sse2_log_precise
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 __imp__calloc
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+        已找到 __imp__fgets
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp___fileno
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp___pclose
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp___popen
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp___dup2
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __imp__signal
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __imp__atol
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+        已找到 __libm_sse2_sqrt_precise
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 __imp__isdigit
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMutate.cpp.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+        已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-runtime-l1-1-0
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-string-l1-1-0
+          已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+        已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-stdio-l1-1-0
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-heap-l1-1-0
+          已在 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+        已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-math-l1-1-0
+          已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-multibyte-l1-1-0
+          已在 ucrt.lib(api-ms-win-crt-multibyte-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-multibyte-l1-1-0.dll)
+        已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-locale-l1-1-0
+          已在 ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)
+        已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-conio-l1-1-0
+          已在 ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)
+        已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-filesystem-l1-1-0
+          已在 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)
+        已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-convert-l1-1-0
+          已在 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll) 中引用
+          已在 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+        已找到 api-ms-win-crt-runtime-l1-1-0_NULL_THUNK_DATA
+          已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+        已找到 api-ms-win-crt-string-l1-1-0_NULL_THUNK_DATA
+          已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+        已找到 api-ms-win-crt-stdio-l1-1-0_NULL_THUNK_DATA
+          已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+        已找到 api-ms-win-crt-heap-l1-1-0_NULL_THUNK_DATA
+          已在 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+        已找到 api-ms-win-crt-math-l1-1-0_NULL_THUNK_DATA
+          已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 api-ms-win-crt-multibyte-l1-1-0_NULL_THUNK_DATA
+          已在 ucrt.lib(api-ms-win-crt-multibyte-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-multibyte-l1-1-0.dll)
+        已找到 api-ms-win-crt-locale-l1-1-0_NULL_THUNK_DATA
+          已在 ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)
+        已找到 api-ms-win-crt-conio-l1-1-0_NULL_THUNK_DATA
+          已在 ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-conio-l1-1-0.dll)
+        已找到 api-ms-win-crt-filesystem-l1-1-0_NULL_THUNK_DATA
+          已在 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-filesystem-l1-1-0.dll)
+        已找到 api-ms-win-crt-convert-l1-1-0_NULL_THUNK_DATA
+          已在 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\kernel32.lib:
+        已找到 __imp__lstrcpynA@12
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetConsoleWindow@0
+          已在 EasyXa.lib(EasyX.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GlobalUnlock@4
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GlobalLock@4
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__lstrcpynW@12
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__lstrcatW@8
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__lstrlenW@4
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__InitializeCriticalSection@4
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__EnterCriticalSection@4
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__LeaveCriticalSection@4
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__DeleteCriticalSection@4
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__CloseHandle@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__SetEvent@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__ResetEvent@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__WaitForSingleObject@8
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__CreateEventA@16
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__CreateThread@24
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetTickCount@0
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetModuleFileNameA@12
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnWnd.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetModuleHandleA@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__AllocConsole@0
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__FreeConsole@0
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__SetConsoleCtrlHandler@8
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__CreateFileA@28
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetFileSize@8
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__ReadFile@20
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__LoadResource@8
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__LockResource@4
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__SizeofResource@8
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GlobalAlloc@8
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GlobalFree@4
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__FindResourceA@12
+          已在 EasyXa.lib(EasyX.GlobalMemory.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetProcAddress@8
+          已在 EasyXa.lib(EasyX.GdiPlus.obj) 中引用
+          已在 sancov.lib(sancov_8bit.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__LoadLibraryA@4
+          已在 EasyXa.lib(EasyX.GdiPlus.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GlobalReAlloc@12
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__UnhandledExceptionFilter@4
+          已在 MSVCRT.lib(gs_report.obj) 中引用
+          已在 MSVCRT.lib(utility_desktop.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__SetUnhandledExceptionFilter@4
+          已在 MSVCRT.lib(gs_report.obj) 中引用
+          已在 MSVCRT.lib(utility_desktop.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetCurrentProcess@0
+          已在 MSVCRT.lib(gs_report.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__TerminateProcess@8
+          已在 MSVCRT.lib(gs_report.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__IsProcessorFeaturePresent@4
+          已在 MSVCRT.lib(gs_report.obj) 中引用
+          已在 MSVCRT.lib(cpu_disp.obj) 中引用
+          已在 MSVCRT.lib(utility_desktop.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__IsDebuggerPresent@0
+          已在 MSVCRT.lib(utility_desktop.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetStartupInfoW@4
+          已在 MSVCRT.lib(utility_desktop.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetModuleHandleW@4
+          已在 MSVCRT.lib(utility_desktop.obj) 中引用
+          已在 sancov.lib(sancov_8bit.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__QueryPerformanceCounter@4
+          已在 MSVCRT.lib(gs_support.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetCurrentProcessId@0
+          已在 MSVCRT.lib(gs_support.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetCurrentThreadId@0
+          已在 MSVCRT.lib(gs_support.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetSystemTimeAsFileTime@4
+          已在 MSVCRT.lib(gs_support.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__InitializeSListHead@4
+          已在 MSVCRT.lib(tncleanup.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__CreateDirectoryA@8
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__FindClose@4
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__FindFirstFileA@8
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__FindNextFileA@8
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetFileAttributesA@4
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetFileAttributesExA@12
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetFileType@4
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__RemoveDirectoryA@4
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetTempPathA@8
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__GetLastError@0
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__CreateTimerQueue@0
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__CreateTimerQueueTimer@28
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 __imp__DeleteTimerQueueEx@8
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+        已找到 _K32GetProcessMemoryInfo@12
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 kernel32.lib(KERNEL32.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\user32.lib:
+        已找到 __imp__TranslateMessage@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__DispatchMessageA@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__PeekMessageA@20
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__SendMessageA@16
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__PostMessageA@16
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__DefWindowProcA@16
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__PostQuitMessage@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__UnregisterClassA@8
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__RegisterClassExA@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__CreateWindowExA@48
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__DestroyWindow@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__ShowWindow@8
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__SetWindowPos@28
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__IsWindowVisible@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__GetDC@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__ReleaseDC@8
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__ValidateRect@8
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__GetWindowRect@8
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__AdjustWindowRectEx@16
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__ScreenToClient@8
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__LoadCursorA@8
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__DestroyIcon@4
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__GetMessageA@16
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__GetClassInfoExA@12
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__SetFocus@4
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__GetFocus@0
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__GetKeyState@4
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__EnableWindow@8
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__DrawTextA@20
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__UpdateWindow@4
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__SetForegroundWindow@4
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__GetWindowTextA@12
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__GetWindowTextLengthA@4
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__GetClientRect@8
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __imp__SystemParametersInfoA@16
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 __IMPORT_DESCRIPTOR_USER32
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已在 user32.lib(USER32.dll) 中引用
+          已加载 user32.lib(USER32.dll)
+        已找到 USER32_NULL_THUNK_DATA
+          已在 user32.lib(USER32.dll) 中引用
+          已加载 user32.lib(USER32.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\gdi32.lib:
+        已找到 __imp__BitBlt@36
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnWnd.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__CreateCompatibleDC@4
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__CreateFontIndirectA@4
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__CreatePen@12
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__CreateSolidBrush@4
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__DeleteDC@4
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__DeleteObject@4
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__GetStockObject@4
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__SelectClipRgn@8
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__SelectObject@8
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.InputBox.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__SetBkColor@8
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__SetBkMode@8
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__SetGraphicsMode@8
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__SetTextColor@8
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__SetWorldTransform@8
+          已在 EasyXa.lib(Image.obj) 中引用
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnWnd.obj) 中引用
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__CreateDIBSection@24
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__GdiSetBatchLimit@4
+          已在 EasyXa.lib(EasyX.Var.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__Arc@36
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__CreateBitmap@20
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__CreateBrushIndirect@4
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__CreateRectRgn@16
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__Ellipse@20
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__ExtFloodFill@20
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__FillRgn@12
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__GetROP2@4
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__GetBkMode@4
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__GetClipRgn@8
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__GetCurrentObject@8
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__GetDIBits@28
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__GetPixel@12
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__GetPolyFillMode@4
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__GetTextExtentPoint32A@16
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__LineTo@12
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__Pie@36
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__Rectangle@20
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__RealizePalette@4
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__RoundRect@28
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__SelectPalette@12
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__SetPixelV@16
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__SetPolyFillMode@8
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__SetROP2@8
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__ExtCreatePen@20
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__GetObjectA@12
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__MoveToEx@16
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__TextOutA@20
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__Polygon@12
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__Polyline@12
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __imp__PolyBezier@12
+          已在 EasyXa.lib(EasyX.DrawOnImg.obj) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 __IMPORT_DESCRIPTOR_GDI32
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+        已找到 GDI32_NULL_THUNK_DATA
+          已在 gdi32.lib(GDI32.dll) 中引用
+          已加载 gdi32.lib(GDI32.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\shell32.lib:
+        已找到 __imp__ExtractIconA@12
+          已在 EasyXa.lib(EasyX.GraphWnd.obj) 中引用
+          已加载 shell32.lib(SHELL32.dll)
+        已找到 __IMPORT_DESCRIPTOR_SHELL32
+          已在 shell32.lib(SHELL32.dll) 中引用
+          已加载 shell32.lib(SHELL32.dll)
+        已找到 SHELL32_NULL_THUNK_DATA
+          已在 shell32.lib(SHELL32.dll) 中引用
+          已加载 shell32.lib(SHELL32.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ole32.lib:
+        已找到 __imp__CreateStreamOnHGlobal@12
+          已在 EasyXa.lib(EasyX.ImageFunc.obj) 中引用
+          已加载 ole32.lib(ole32.dll)
+        已找到 __imp__CoUninitialize@0
+          已在 EasyXa.lib(EasyX.GdiPlus.obj) 中引用
+          已加载 ole32.lib(ole32.dll)
+        已找到 __imp__CoInitialize@4
+          已在 EasyXa.lib(EasyX.GdiPlus.obj) 中引用
+          已加载 ole32.lib(ole32.dll)
+        已找到 __IMPORT_DESCRIPTOR_ole32
+          已在 ole32.lib(ole32.dll) 中引用
+          已在 ole32.lib(ole32.dll) 中引用
+          已在 ole32.lib(ole32.dll) 中引用
+          已加载 ole32.lib(ole32.dll)
+        已找到 ole32_NULL_THUNK_DATA
+          已在 ole32.lib(ole32.dll) 中引用
+          已加载 ole32.lib(ole32.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbccp32.lib:
+      正在搜索 hacker.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x86\EasyXa.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprt.lib:
+        已找到 "void __cdecl std::_Xout_of_range(char const *)" (?_Xout_of_range@std@@YAXPBD@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) void (__cdecl* std::_Raise_handler)(class stdext::exception const &)" (__imp_?_Raise_handler@std@@3P6AXABVexception@stdext@@@ZA)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMutate.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIOWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: __thiscall std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QAE@H@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: __thiscall std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QAE@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "void __cdecl std::_Facet_Register(class std::_Facet_base *)" (?_Facet_Register@std@@YAXPAV_Facet_base@1@@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(locale0_implib.obj)
+        已找到 "__declspec(dllimport) public: __thiscall std::locale::id::operator unsigned int(void)" (__imp_??Bid@locale@std@@QAEIXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "private: static class std::locale::_Locimp * __cdecl std::locale::_Getgloballocale(void)" (?_Getgloballocale@locale@std@@CAPAV_Locimp@12@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: bool __thiscall std::codecvt_base::always_noconv(void)const " (__imp_?always_noconv@codecvt_base@std@@QBE_NXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: int __thiscall std::codecvt<char,char,struct _Mbstatet>::in(struct _Mbstatet &,char const *,char const *,char const * &,char *,char *,char * &)const " (__imp_?in@?$codecvt@DDU_Mbstatet@@@std@@QBEHAAU_Mbstatet@@PBD1AAPBDPAD3AAPAD@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: int __thiscall std::codecvt<char,char,struct _Mbstatet>::out(struct _Mbstatet &,char const *,char const *,char const * &,char *,char *,char * &)const " (__imp_?out@?$codecvt@DDU_Mbstatet@@@std@@QBEHAAU_Mbstatet@@PBD1AAPBDPAD3AAPAD@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: int __thiscall std::codecvt<char,char,struct _Mbstatet>::unshift(struct _Mbstatet &,char *,char *,char * &)const " (__imp_?unshift@?$codecvt@DDU_Mbstatet@@@std@@QBEHAAU_Mbstatet@@PAD1AAPAD@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: static unsigned int __cdecl std::codecvt<char,char,struct _Mbstatet>::_Getcat(class std::locale::facet const * *,class std::locale const *)" (__imp_?_Getcat@?$codecvt@DDU_Mbstatet@@@std@@SAIPAPBVfacet@locale@2@PBV42@@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) protected: __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::basic_streambuf<char,struct std::char_traits<char> >(void)" (__imp_??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAE@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: virtual __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::~basic_streambuf<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAE@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: class std::locale __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::getloc(void)const " (__imp_?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QBE?AVlocale@2@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sbumpc(void)" (__imp_?sbumpc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sgetc(void)" (__imp_?sgetc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) protected: char * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::_Gninc(void)" (__imp_?_Gninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEPADXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) protected: char * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::_Pninc(void)" (__imp_?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEPADXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) protected: void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::_Init(void)" (__imp_?_Init@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) protected: virtual __int64 __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::xsgetn(char *,__int64)" (__imp_?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPAD_J@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) protected: virtual __int64 __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::xsputn(char const *,__int64)" (__imp_?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPBD_J@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: virtual __thiscall std::basic_ios<char,struct std::char_traits<char> >::~basic_ios<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_ios@DU?$char_traits@D@std@@@std@@UAE@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: void __thiscall std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) protected: __thiscall std::basic_ios<char,struct std::char_traits<char> >::basic_ios<char,struct std::char_traits<char> >(void)" (__imp_??0?$basic_ios@DU?$char_traits@D@std@@@std@@IAE@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: __thiscall std::basic_istream<char,struct std::char_traits<char> >::basic_istream<char,struct std::char_traits<char> >(class std::basic_streambuf<char,struct std::char_traits<char> > *,bool)" (__imp_??0?$basic_istream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: virtual __thiscall std::basic_istream<char,struct std::char_traits<char> >::~basic_istream<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_istream@DU?$char_traits@D@std@@@std@@UAE@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __thiscall std::basic_istream<char,struct std::char_traits<char> >::read(char *,__int64)" (__imp_?read@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@PAD_J@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __thiscall std::basic_istream<char,struct std::char_traits<char> >::seekg(__int64,int)" (__imp_?seekg@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@_JH@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: class std::fpos<struct _Mbstatet> __thiscall std::basic_istream<char,struct std::char_traits<char> >::tellg(void)" (__imp_?tellg@?$basic_istream@DU?$char_traits@D@std@@@std@@QAE?AV?$fpos@U_Mbstatet@@@2@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "struct _iobuf * __cdecl std::_Fiopen(char const *,int,int)" (?_Fiopen@std@@YAPAU_iobuf@@PBDHH@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "protected: virtual __int64 __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::showmanyc(void)" (?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: static class std::locale::id std::codecvt<char,char,struct _Mbstatet>::id" (__imp_?id@?$codecvt@DDU_Mbstatet@@@std@@2V0locale@2@A)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerIO.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "void __cdecl std::_Xbad_alloc(void)" (?_Xbad_alloc@std@@YAXXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Thrd_hardware_concurrency
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Mtx_init_in_situ
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Mtx_destroy_in_situ
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Mtx_trylock
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Mtx_unlock
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "void __cdecl std::_Throw_C_error(int)" (?_Throw_C_error@std@@YAXH@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::snextc(void)" (__imp_?snextc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: bool __thiscall std::basic_istream<char,struct std::char_traits<char> >::_Ipfx(bool)" (__imp_?_Ipfx@?$basic_istream@DU?$char_traits@D@std@@@std@@QAE_N_N@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "protected: virtual void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::imbue(class std::locale const &)" (?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEXABVlocale@2@@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "protected: virtual int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sync(void)" (?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "protected: virtual class std::basic_streambuf<char,struct std::char_traits<char> > * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::setbuf(char *,__int64)" (?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEPAV12@PAD_J@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "protected: virtual int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::uflow(void)" (?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "public: virtual void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::_Unlock(void)" (?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "public: virtual void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::_Lock(void)" (?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtil.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "void __cdecl std::_Xinvalid_argument(char const *)" (?_Xinvalid_argument@std@@YAXPBD@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Xtime_get_ticks
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Thrd_detach
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Thrd_join
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Thrd_id
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Mtx_lock
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Cnd_do_broadcast_at_thread_exit
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "void __cdecl std::_Throw_Cpp_error(int)" (?_Throw_Cpp_error@std@@YAXH@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: __int64 __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: void __thiscall std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: __thiscall std::basic_iostream<char,struct std::char_traits<char> >::basic_iostream<char,struct std::char_traits<char> >(class std::basic_streambuf<char,struct std::char_traits<char> > *)" (__imp_??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: virtual __thiscall std::basic_iostream<char,struct std::char_traits<char> >::~basic_iostream<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UAE@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "struct std::nothrow_t const std::nothrow" (?nothrow@std@@3Unothrow_t@1@B)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已加载 msvcprt.lib(nothrow.obj)
+        已找到 __Mbrtowc
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: struct _Cvtvec __thiscall std::_Locinfo::_Getcvt(void)const " (__imp_?_Getcvt@_Locinfo@std@@QBE?AU_Cvtvec@@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: unsigned short const * __thiscall std::_Locinfo::_W_Getdays(void)const " (__imp_?_W_Getdays@_Locinfo@std@@QBEPBGXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: unsigned short const * __thiscall std::_Locinfo::_W_Getmonths(void)const " (__imp_?_W_Getmonths@_Locinfo@std@@QBEPBGXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerUtilWindows.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __thiscall std::basic_istream<char,struct std::char_traits<char> >::operator>>(unsigned int &)" (__imp_??5?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV01@AAI@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::operator<<(class std::ios_base & (__cdecl*)(class std::ios_base &))" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAVios_base@1@AAV21@@Z@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::operator<<(unsigned int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@I@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "struct std::_Smanip<__int64> __cdecl std::setw(__int64)" (?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerSHA1.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Cnd_init_in_situ
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Cnd_destroy_in_situ
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Cnd_wait
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 __Cnd_signal
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: static unsigned int __cdecl std::ctype<char>::_Getcat(class std::locale::facet const * *,class std::locale const *)" (__imp_?_Getcat@?$ctype@D@std@@SAIPAPBVfacet@locale@2@PBV42@@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: __thiscall std::ios_base::operator bool(void)const " (__imp_??Bios_base@std@@QBE_NXZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: class std::locale __thiscall std::ios_base::getloc(void)const " (__imp_?getloc@ios_base@std@@QBE?AVlocale@2@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: static class std::locale::id std::ctype<char>::id" (__imp_?id@?$ctype@D@std@@2V0locale@2@A)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: __thiscall std::basic_ostream<char,struct std::char_traits<char> >::basic_ostream<char,struct std::char_traits<char> >(class std::basic_streambuf<char,struct std::char_traits<char> > *,bool)" (__imp_??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+        已找到 "__declspec(dllimport) public: virtual __thiscall std::basic_ostream<char,struct std::char_traits<char> >::~basic_ostream<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UAE@XZ)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 msvcprt.lib(MSVCP140.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winmm.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRT.lib:
+        已找到 __ftol3
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerTracePC.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerMerge.cpp.obj) 中引用
+          已加载 MSVCRT.lib(ftol3.obj)
+        已找到 __alldiv
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDriver.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerFork.cpp.obj) 中引用
+          已加载 MSVCRT.lib(lldiv.obj)
+        已找到 "void * __cdecl operator new(unsigned int,struct std::nothrow_t const &)" (??2@YAPAXIABUnothrow_t@std@@@Z)
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已加载 MSVCRT.lib(new_scalar_nothrow.obj)
+        已找到 __tls_array
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已加载 MSVCRT.lib(atlssup.obj)
+        已找到 __tls_index
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerLoop.cpp.obj) 中引用
+          已加载 MSVCRT.lib(tlssup.obj)
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+        已找到 __imp__putenv
+          已在 clang_rt.fuzzer_MD-i386.lib(FuzzerDataFlowTrace.cpp.obj) 中引用
+          已加载 OLDNAMES.lib(putenv.obi)
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\clang_rt.fuzzer_MD-i386.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\sancov.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ws2_32.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntime.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\ucrt\x86\ucrt.lib:
+        已找到 __except1
+          已在 MSVCRT.lib(ftol3.obj) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+        已找到 __imp___putenv
+          已在 OLDNAMES.lib(putenv.obi) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-environment-l1-1-0.dll)
+        已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-environment-l1-1-0
+          已在 ucrt.lib(api-ms-win-crt-environment-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-environment-l1-1-0.dll)
+        已找到 api-ms-win-crt-environment-l1-1-0_NULL_THUNK_DATA
+          已在 ucrt.lib(api-ms-win-crt-environment-l1-1-0.dll) 中引用
+          已加载 ucrt.lib(api-ms-win-crt-environment-l1-1-0.dll)
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\kernel32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbccp32.lib:
+      正在搜索 hacker.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x86\EasyXa.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprt.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winmm.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRT.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\clang_rt.fuzzer_MD-i386.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\sancov.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ws2_32.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntime.lib:
+  
+  已完成库搜索
+  
+  正在生成 .exp 文件
+    正在创建库 F:\my_program\workCpp\hacker\hacker\Release\hacker.lib 和对象 F:\my_program\workCpp\hacker\hacker\Release\hacker.exp
+  
+  已完成 .exp 文件生成
+  
+  正在搜索库
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\kernel32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbccp32.lib:
+      正在搜索 hacker.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x86\EasyXa.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprt.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winmm.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRT.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\clang_rt.fuzzer_MD-i386.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\sancov.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ws2_32.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntime.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\ucrt\x86\ucrt.lib:
+  
+  已完成库搜索
+  
+  正在搜索库
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\kernel32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbccp32.lib:
+      正在搜索 hacker.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x86\EasyXa.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprt.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winmm.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRT.lib:
+        已找到 ___scrt_stub_for_acrt_initialize
+          已加载 MSVCRT.lib(ucrt_stubs.obj)
+        已找到 __filter_x86_sse2_floating_point_exception_default
+          已加载 MSVCRT.lib(x86_exception_filter.obj)
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\clang_rt.fuzzer_MD-i386.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\sancov.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ws2_32.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntime.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\ucrt\x86\ucrt.lib:
+  
+  已完成库搜索
+  
+  正在搜索库
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\kernel32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbccp32.lib:
+      正在搜索 hacker.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x86\EasyXa.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprt.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winmm.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRT.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\clang_rt.fuzzer_MD-i386.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\sancov.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ws2_32.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntime.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\ucrt\x86\ucrt.lib:
+  
+  已完成库搜索
+  
+  正在搜索库
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\kernel32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\user32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\gdi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winspool.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\comdlg32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\advapi32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\shell32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ole32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\oleaut32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\uuid.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbc32.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\odbccp32.lib:
+      正在搜索 hacker.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x86\EasyXa.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\msvcprt.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\winmm.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\MSVCRT.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\OLDNAMES.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\clang_rt.fuzzer_MD-i386.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\sancov.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\um\x86\ws2_32.lib:
+      正在搜索 E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x86\vcruntime.lib:
+      正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.20348.0\ucrt\x86\ucrt.lib:
+  
+  已完成库搜索
+  
+  已完成传递 1
+  
+hacker.lib(hacker.obj) : error LNK2001: 无法解析的外部符号 __imp__printf
+F:\my_program\workCpp\hacker\hacker\Release\hacker.exe : fatal error LNK1120: 1 个无法解析的外部命令
